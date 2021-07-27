@@ -1,5 +1,3 @@
-Hunting_Rule_ShikataGaNai C:\\Users\\ly199\\Desktop\\0718\\test\libOpenglRender111.dll
-Hunting_Rule_Mutex_res C:\\Users\\ly199\\Desktop\\0718\\test\libOpenglRender111.dll
-Hunting_Rule_Mutex_hardcoding C:\\Users\\ly199\\Desktop\\0718\\test\libOpenglRender111.dll
-Hunting_Rule_Mutex_res C:\\Users\\ly199\\Desktop\\0718\\test\wsock32.dll
+Hunting_Rule_ShikataGaNai C:\\Users\\xxx\\Desktop\\test\xxx.dll
+
 
